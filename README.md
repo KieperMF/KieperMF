@@ -1,7 +1,6 @@
-Hi, I'm Matheus 👋
-
-
-- I'm a Mobile Developer from Brazil.
-- I currently work on an app called MyMov.
-- I started studing by a techical course on august 2022
-- I’m currently focused on Mobile development with Flutter and Kotlin/Jetpack Compose
+💼Atuo profissionalmente na área de TI há mais de 1 ano
+⚡Desenvolvedor Mobile
+🧩Viciado em aprender coisas novas
+🧱Focado em melhorar como pessoa e como profissional
+🎓Técnico em Desenvolvimento de sistemas e Graduando em Análise e Desenvolvimento de Sistemas
+🎮Apreciador de video-games
